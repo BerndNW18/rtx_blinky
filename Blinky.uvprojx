@@ -15,7 +15,7 @@
         <TargetCommonOption>
           <Device>LPC1857</Device>
           <Vendor>NXP (founded by Philips)</Vendor>
-          <PackID>Keil.LPC1800_DFP.2.9.0</PackID>
+          <PackID>Keil.LPC1800_DFP.2.10.0</PackID>
           <PackURL>http://www.keil.com/pack/</PackURL>
           <Cpu>IRAM(0x10000000,0x8000) IRAM2(0x20000000,0x10000) IROM(0x1A000000,0x80000) IROM2(0x1B000000,0x80000) CPUTYPE("Cortex-M3") CLOCK(12000000) ELITTLE</Cpu>
           <FlashUtilSpec></FlashUtilSpec>
@@ -385,6 +385,16 @@
               <FileName>Blinky.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Blinky.c</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
+          <GroupName>Documentation</GroupName>
+          <Files>
+            <File>
+              <FileName>dokutest.txt</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\dokutest.txt</FilePath>
             </File>
           </Files>
         </Group>
@@ -776,6 +786,16 @@
               <FileName>Blinky.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Blinky.c</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
+          <GroupName>Documentation</GroupName>
+          <Files>
+            <File>
+              <FileName>dokutest.txt</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\dokutest.txt</FilePath>
             </File>
           </Files>
         </Group>
