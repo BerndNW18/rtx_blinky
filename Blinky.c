@@ -8,7 +8,6 @@
  *      Copyright (c) 2004-2014 KEIL - An ARM Company. All rights reserved.
  *---------------------------------------------------------------------------*/
 
-
 #include "cmsis_os.h"
 #include "LPC18xx.h"
 #include "Board_LED.h"
